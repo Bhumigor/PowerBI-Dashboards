@@ -17,6 +17,9 @@ The dashboard will focus on providing insights into:
 - **Regional Sales Performance**: Track how different regions are performing in terms of total sales.
 - **Top-Selling Products and Categories**: Identify the best-selling products and product categories.
 - **Monthly Sales Trends**: Analyze monthly trends to observe seasonality or patterns in sales.
+![Sales Dashboard page 1](https://github.com/Bhumigor/Superstore-Sales-Dashboard/blob/master/Photos/Dashboard%20page%201.png)
+![Sales Dashboard page 2](https://github.com/Bhumigor/Superstore-Sales-Dashboard/blob/master/Photos/Dashboard%20page%202.png
+)
 
 ## Tools Used
 - **Power BI**: For creating the dashboard and visualizations.
